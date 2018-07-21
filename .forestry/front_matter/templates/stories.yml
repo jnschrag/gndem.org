@@ -9,3 +9,5 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+pages:
+- _posts/gndem-members-convene-for-academy-on-open-data-analysis-and-disinformation-monitoring.md
