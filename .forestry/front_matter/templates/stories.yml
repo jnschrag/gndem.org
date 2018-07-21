@@ -3,6 +3,13 @@ label: Stories
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  name: publish_date
+  label: Publish Date
+  description: Date this post should be made public
+  config:
+    date_format: YYYY/MM/DD
+    time_format: HH:MM
 - type: file
   name: feature_image
   label: Feature Image
