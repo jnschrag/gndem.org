@@ -1,0 +1,8 @@
+---
+label: Stories
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: feature_image
+  label: Feature Image
