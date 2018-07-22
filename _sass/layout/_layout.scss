@@ -4,6 +4,19 @@ html {
 body {
 }
 
+.page-content {
+	padding: 2rem 0;
+}
+
+.wrapper {
+	padding: 0 1rem;
+
+	@include breakpoint("medium") {
+		max-width: $size__content-width;
+		margin: 0 auto;
+	}
+}
+
 @import "header";
 @import "page";
 @import "footer";

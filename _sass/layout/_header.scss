@@ -1,3 +1,51 @@
 /*==============================
 =            Header            =
 ==============================*/
+.site-header {
+	background-color: $red;
+	padding: 1rem 0;
+
+	.wrapper {
+		display: flex;
+	}
+}
+
+.site-nav {
+
+	@include breakpoint("medium") {
+		flex: 1 1 auto;
+	}
+
+	.nav-trigger {
+		display: none;
+	}
+
+	.nav-trigger-label {
+
+		@include breakpoint("medium") {
+			display: none;
+		}
+	}
+
+	ul {
+		list-style: none;
+		display: flex;
+		margin: 0;
+		padding: 0;
+		justify-content: flex-end;
+	}
+
+	li {
+		margin-left: 1.5rem;
+	}
+
+	a {
+		color: $white;
+		text-decoration: none;
+
+		&:hover {
+			color: $yellow;
+		}
+	}
+
+}

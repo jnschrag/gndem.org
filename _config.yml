@@ -9,6 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gndemexchanges
 
+show_excerpts: true
+date_format: "%B %-d, %Y"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post" 
+
 # Build settings
 markdown: kramdown
 plugins:
