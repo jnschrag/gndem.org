@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 ---
 
 <div class="home">
@@ -11,12 +11,14 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   <section class="post-list">
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Success Stories" }}</h2>
     {% assign recent = site.posts | sort: 'publish_date' | reverse %}
     {% for post in recent limit: 3 %}
       {% include post.html %}
     {% endfor %}
   </section>
   {%- endif -%}
+
+  Read the <a href="/declaration-of-global-principles">Declaration of Global Principles</a>.
 
 </div>

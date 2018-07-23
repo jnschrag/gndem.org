@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 ---
 
 <div class="home">
@@ -9,10 +9,35 @@ layout: default
 
   {{ content }}
 
+  <h3>{{ site.data.strings.regional_networks }}</h3>
   <ul>
   {% for member in site.data.regional_networks %}
     <li>{{ member.name }}</li>
   {% endfor %}
   </ul>
 
+  <h3>{{ site.data.strings.members }}</h3>
+  <table id="members_table">
+  	<thead>
+  		<tr>
+  			<th>{{ site.data.strings.country }}</th>
+  			<th>{{ site.data.strings.organization_name }}</th>
+  			<th>{{ site.data.strings.organization_acronym }}</th>
+  			<th>{{ site.data.strings.website }}</th>
+  		</tr>
+  	</thead>
+  	<tbody>
+  		{% for member in site.data.gndem_members %}
+  		<tr>
+  			<td>{{ member.country }}</td>
+  			<td>{{ member.name }}</td>
+  			<td>{{ member.acronym }}</td>
+  			<td>{{ member.website }}</td>
+  		</tr>
+  		{% endfor %}
+  	</tbody>
+  	<tfoot>
+  		<td colspan="4">Country</td>
+  	</tfoot>
+  </table>
 </div>

@@ -3,6 +3,19 @@ menu_home: Home
 menu_about: About Us
 menu_stories: Stories
 menu_members: Members
+copyright: GNDEM 2017
+privacy_policy: Privacy Policy
+terms_conditions: Terms and Conditions
+
+# Principles
 download_declaration: Download the Declaration
 endorsing_networks: Endorsing Networks
 supporting_organizations: Supporting Organizations
+
+# Members
+regional_networks: Regional Networks
+members: Members
+country: country
+organization_name: Name
+organization_acronym: Acronym
+website: Website
