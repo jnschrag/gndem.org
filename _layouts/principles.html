@@ -12,10 +12,11 @@ layout: default
 	</section>
 
 	<section class="declaration-pdf">
-		<a href="/assets/pdfs/DoGP_{{ site.active_lang }}.pdf" class="btn btn-download">{{ site.data.strings.download_declaration }}</a>
-		<object data="/assets/pdfs/DoGP_{{ site.active_lang }}.pdf" type="application/pdf"
+		{% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" | append: ".pdf" %}
+		<a href="{{ pdf_url | relative_url }}" class="btn btn-download">{{ site.data.strings.download_declaration }}</a>
+		<object data="{{ pdf_url | relative_url }}" type="application/pdf"
         width="100%" height="700" typemustmatch>
-		  <p>You don't have a PDF plugin, but you can <a href="/assets/pdfs/DoGP_{{ site.active_lang }}.pdf">download the PDF file.</a></p>
+		  <p>You don't have a PDF plugin, but you can <a href="{{ pdf_url | relative_url }}">download the PDF file.</a></p>
 		</object>
 	</section>
 
