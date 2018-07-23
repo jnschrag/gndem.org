@@ -421,15 +421,60 @@ dfn, cite, em, i {
 
 /*----------  Headings  ----------*/
 /*----------  Links  ----------*/
+.page-content {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+.wrapper {
+  padding: 0 1rem; }
+  @media screen and (min-width: 48em) {
+    .wrapper {
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto; } }
+
 /*==============================
 =            Header            =
 ==============================*/
+.site-header {
+  background-color: #A10000;
+  padding: 1rem 0; }
+  .site-header .wrapper {
+    display: flex; }
+  .site-header .site-title {
+    color: #F2C600; }
+
+@media screen and (min-width: 48em) {
+  .site-nav {
+    flex: 1 1 auto; } }
+.site-nav .nav-trigger {
+  display: none; }
+@media screen and (min-width: 48em) {
+  .site-nav .nav-trigger-label {
+    display: none; } }
+.site-nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-end; }
+.site-nav li {
+  margin-left: 1.5rem; }
+.site-nav a {
+  color: #fff;
+  text-decoration: none; }
+  .site-nav a:hover {
+    color: #F2C600; }
+
 /*===========================
 =            Page           =
 ===========================*/
 /*==============================
 =            Footer            =
 ==============================*/
+.site-footer {
+  margin-top: 2rem; }
+
 /*================================
 =            Components           =
 ================================*/
