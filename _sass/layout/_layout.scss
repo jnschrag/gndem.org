@@ -2,10 +2,12 @@ html {
 }
 
 body {
+	background-color: $cream;
+	overflow-x: hidden;
 }
 
 .page-content {
-	margin-top: 2rem;
+	margin-top: 100px;
 	margin-bottom: 2rem;
 }
 
@@ -21,4 +23,5 @@ body {
 
 @import "header";
 @import "page";
+@import "post";
 @import "footer";

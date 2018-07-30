@@ -2,5 +2,32 @@
 =            Footer            =
 ==============================*/
 .site-footer {
+	background-color: $red;
 	margin-top: 2rem;
+	padding-top: 2rem;
+	color: $light-red;
+
+	.footer-heading {
+		margin-bottom: 0.5rem;
+		@include fontSize(24px);
+		color: $yellow;
+	}
+
+	p {
+		margin-bottom: 0;
+	}
+
+	.copyright {
+		position: relative;
+		background-color: $dark-red;
+		padding: 0.25rem 0.1rem;
+		@include fontSize(12px);
+		color: $light-red;
+		@include fullWidthBackground($dark-red);
+
+		a {
+			text-decoration: underline;
+			&:hover { color: $yellow; }
+		}
+	}
 }
