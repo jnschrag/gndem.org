@@ -6,7 +6,5 @@
   <link href="https://fonts.googleapis.com/css?family=Merriweather:700|Open+Sans:400" rel="stylesheet" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+  {%- include google-analytics.html -%}
 </head>
