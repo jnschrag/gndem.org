@@ -7,6 +7,12 @@ copyright: GNDEM 2017
 privacy_policy: Privacy Policy
 terms_conditions: Terms and Conditions
 
+home_desc: GNDEM, with 251 member organizations in 89 countries and territories, and regional network members in Africa, Asia, Europe and Eurasia, Latin America and the Caribbean, and the Middle East/North Africa, has  worked to facilitate and enhance the critical work of citizen election monitors throughout the world.
+home_latest_title: Latest Success Stories
+
+footer_desc: In more than 90 countries on five continents since 1986, millions of citizens have joined nonpartisan election monitoring efforts to safeguard electoral integrity, help create governmental and political accountability, contribute to mitigating potentials for politically motivated violence and promote the right of citizens to participate in public affairs. The widespread development of nonpartisan election monitoring around the world is tangible evidence of citizen desire for responsive, transparent, democratic governance.
+
+
 # Principles
 download_declaration: Download the Declaration
 endorsing_networks: Endorsing Networks
@@ -19,3 +25,7 @@ country: country
 organization_name: Name
 organization_acronym: Acronym
 website: Website
+membership_block_title: GNDEM Membership
+membership_block_desc: GNDEM membership is open to any nonpartisan citizen organization actively committed to election monitoring and observation in their country.
+view_members: View Current Members
+register_members: Register Your Organization
