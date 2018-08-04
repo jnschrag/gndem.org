@@ -6,21 +6,39 @@
 	top: 0;
 	z-index: 10;
 	width: 100%;
-	background-color: $red;
-	padding: 1rem 0;
+	height: $size__header-height;
+	padding: 1rem 0 0;
+	background-color: $white;
 
-	.wrapper {
-		display: flex;
+	.logo-container {
+		margin-bottom: 1rem;
+	}
+
+	.site-logo {
+		max-width: 50px;
+		height: auto;
 	}
 
 	.site-title {
+		margin-bottom: 0.5rem;
 		font-family: $font__merriweather;
-		@include fontSize(24px);
-		color: $yellow;
+		@include fontSize(60px);
+		line-height: 1;
+		color: $red;
+	}
+
+	.site-subtitle {
+		margin-left: 55px;
+		@include fontSize(13px);
+	    line-height: 1.5;
+	    color: $dark-gray;
 	}
 }
 
 .site-nav {
+	position: relative;
+	background-color: $off-white;
+	@include fullWidthBackground($off-white);
 
 	@include breakpoint("medium") {
 		flex: 1 1 auto;
@@ -37,27 +55,21 @@
 		}
 	}
 
-	ul {
+	.main-menu {
 		list-style: none;
 		display: flex;
 		margin: 0;
 		padding: 0;
-		justify-content: flex-end;
 		text-transform: uppercase;
-	}
 
-	li {
-		
-	}
+		a {
+			display: block;
+			padding: 0.5rem 2rem 0.5rem 0;
+			color: $dark-gray;
 
-	a {
-		display: block;
-		padding: 0.5rem 1rem;
-		color: $light-red;
-
-		&:hover {
-			background-color: $dark-red;
-			color: $yellow;
+			&:hover {
+				color: $dark-red;
+			}
 		}
 	}
 

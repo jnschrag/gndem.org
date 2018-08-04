@@ -26,6 +26,17 @@ hr {
 	margin: 2rem 0;
 }
 
+%meta {
+	@include fontSize(14px);
+    color: $gray;
+}
+
+%subheading {
+	font-family: $font__open-sans;
+	@include fontSize(18px);
+	text-transform: uppercase;
+}
+
 /*----------  Headings  ----------*/
 h1 {
 	margin: 0 0 1rem;

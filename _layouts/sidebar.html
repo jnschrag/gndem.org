@@ -12,9 +12,13 @@
         <div class="col-xs-12 col-md-8">
           {{ content }}
         </div>
-        <aside class="col-xs-12 col-md-4">
-          <a href="{{ "/members" | relative_url }}">View GNDEM Members</a><br />
-          <a href="{{ "/join" | relative_url }}">Join GNDEM</a>
+        <aside class="col-xs-12 col-md-4 sidebar">
+          <h2 class="subheading">Read the Declaration</h2>
+          <p>Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations</p>
+          <h2 class="subheading">{{ site.data.strings.membership_block_title }}</h2>
+          <p>{{ site.data.strings.membership_block_desc }}</p>
+          <a href="{{ "/members" | relative_url }}">{{ site.data.strings.view_members }}</a><br />
+          <a href="{{ "/join" | relative_url }}">{{ site.data.strings.register_members }}</a>
         </aside>
       </div>
     </main>

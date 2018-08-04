@@ -1,6 +1,7 @@
 # Configuration
 
 # Site settings
+abbr: GNDEM
 title: Global Network of Domestic Election Monitors
 email: gndem@ndi.org
 description: >- # this means to ignore newlines until "baseurl:"

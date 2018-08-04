@@ -1,0 +1,22 @@
+/*============================
+=            Home            =
+============================*/
+.home {
+
+	@include breakpoint("medium") {
+		padding-right: 4rem;
+	}
+
+	.post-list-heading {
+		@extend %subheading;
+		color: $gray;
+	}
+}
+
+.home,
+.sidebar {
+	.subheading {
+		@extend %subheading;
+	}
+}
+
