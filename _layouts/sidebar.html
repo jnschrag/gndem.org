@@ -13,12 +13,17 @@
           {{ content }}
         </div>
         <aside class="col-xs-12 col-md-4 sidebar">
-          <h2 class="subheading">Read the Declaration</h2>
-          <p>Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations</p>
-          <h2 class="subheading">{{ site.data.strings.membership_block_title }}</h2>
-          <p>{{ site.data.strings.membership_block_desc }}</p>
-          <a href="{{ "/members" | relative_url }}">{{ site.data.strings.view_members }}</a><br />
-          <a href="{{ "/join" | relative_url }}">{{ site.data.strings.register_members }}</a>
+          <div class="sidebar-declaration">
+            <h2 class="subheading">Declaration of Global Principles</h2>
+            <p>The Declaration of Global Principles for Nonpartisan Election Observation and Monitoring by Citizen Organizations provides a set of standards for self-awareness and accountability among nonpartisan election monitoring organizations.</p>
+            <a href="{{ "/declaration-of-global-principles" | relative_url }}">Read the Declaration</a>
+          </div>
+          <div class="sidebar-members">
+            <h2 class="subheading">{{ site.data.strings.membership_block_title }}</h2>
+            <p>{{ site.data.strings.membership_block_desc }}</p>
+            <a href="{{ "/members" | relative_url }}">{{ site.data.strings.view_members }}</a><br />
+            <a href="{{ "/join" | relative_url }}">{{ site.data.strings.register_members }}</a>
+          </div>
         </aside>
       </div>
     </main>

@@ -15,9 +15,6 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {% if page.feature_image %}
-      <img src="{{ page.feature_image | relative_url }}" class="post-feature-img" alt="{{ page.title | escape }}" title="{{ page.title | escape }}" />
-    {% endif %}
     {{ content }}
   </div>
 
