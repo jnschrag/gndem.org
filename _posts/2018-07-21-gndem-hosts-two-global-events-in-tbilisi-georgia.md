@@ -2,7 +2,7 @@
 title: GNDEM Hosts Two Global Events in Tbilisi, Georgia
 date: 2018-07-21 18:03:24 -0400
 publish_date: 2017-08-04 00:00:00 -0400
-feature_image: 'gndem-hosts-two-global-events-in-tbilisi-georgia.png'
+feature_image: '/uploads/gndem-hosts-two-global-events-in-tbilisi-georgia.png'
 tags: []
 
 ---
