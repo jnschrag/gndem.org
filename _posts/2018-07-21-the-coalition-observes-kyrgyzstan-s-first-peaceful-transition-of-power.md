@@ -2,7 +2,7 @@
 title: The Coalition Observes Kyrgyzstan’s First Peaceful Transition of Power
 date: 2018-07-21 18:00:54 -0400
 publish_date: 2017-12-08 00:00:00 -0500
-feature_image: ''
+feature_image: 'coalition-kyrgyzstan-first-transition-of-power-1.png'
 tags:
 - Coalition for "Democracy and Civil Society"
 - Parallel Vote Tabulation (PVT)

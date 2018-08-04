@@ -2,8 +2,7 @@
 title: Amid Political Tensions, CRTA’s PVT Confirms Preliminary Results
 date: 2018-07-21 22:10:55 +0000
 publish_date: 2017-05-10 04:00:00 +0000
-feature_image: "/uploads/Amid Political Tensions, CRTA’s PVT Confirms Preliminary
-  Results 1.png"
+feature_image: "/uploads/amid-political-tensions-crtas-pvt-confirms-preliminary-results-1.png"
 tags:
 - Parallel Vote Tabulation (PVT)
 - Serbia
