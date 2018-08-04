@@ -12,3 +12,27 @@ header:
   url: "/members"
   weight: 4
   title: menu_members
+
+languages:
+- identifier: ru
+  title: Русский
+  url: "/ru"
+  weight: 10
+- identifier: es
+  title: Español
+  url: "/es"
+  weight: 20
+- identifier: fr
+  title: Français
+  url: "/fr"
+  weight: 30
+- identifier: ar
+  title: العربية
+  url: "/ar"
+  weight: 40
+- identifier: en
+  title: English
+  url: "/"
+  weight: 50
+
+  
