@@ -27,6 +27,8 @@ defaults:
 markdown: kramdown
 plugins:
   - jekyll-feed
+sass:
+  style: compressed
 
 languages: ["en", "es", "fr", "ar", "ru"]
 default_lang: "en"
