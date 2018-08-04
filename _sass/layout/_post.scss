@@ -2,19 +2,22 @@
 =            Posts            =
 =============================*/
 .post {
+	.post-header {
+		margin-bottom: 1rem;
+	}
 
 	.post-list & {
-		margin-bottom: 3rem;
-		padding-bottom: 1.5rem;
+		margin-bottom: 2rem;
+		padding-bottom: 2rem;
 		border-bottom: 1px solid $light-gray;
 
-		.home & {
-			margin-bottom: 2rem;
-			padding-bottom: 0.5rem;
+		p {
+			margin-bottom: 0;
 		}
 	}
 
-	&-title {
+	&-title,
+	.page &-title {
 		color: $black;
 		margin-bottom: 0.5rem;
 
@@ -41,20 +44,42 @@
 		}
 	}
 
+	.page &-title {
+		margin-bottom: 1.5rem;
+	}
+
 	&-meta {
 		@extend %meta;
 		margin-bottom: 0.25rem;
 	}
 
 	.post-feature-img {
+		display: block;
+		width: 100%;
+		height: auto;
+		margin: 0.5rem 0;
+		border: 3px solid $light-gray;
+
+		@include breakpoint("medium") {
+			display: inline-block;
+			float: left;
+			max-width: 40%;
+			margin: 0 1rem 0.25rem 0;
+		}
 
 		.post-list & {
-			float: left;
-			max-width: 30%;
-			height: auto;
-			margin: 0 1.5rem 0.25rem 0;
-			border: 1px solid $light-gray;
+			@include breakpoint("medium") {
+				max-width: 30%;
+			}
 		}
+	}
+
+	.read-more {
+		position: relative;
+		display: inline-block;
+		@include fontSize(14px);
+		text-transform: uppercase;
+		@include arrow-after($yellow, 0.8em, 0.1em, -1.5em);
 	}
 }
 

@@ -1,0 +1,29 @@
+/*===============================
+=            Buttons            =
+===============================*/
+
+.btn
+{
+	display: inline-block;
+	background-color: $off-white;
+	font-family: $font__open-sans;
+	@include fontSize(16px);
+	line-height: 1;
+	text-transform: uppercase;
+	padding: 0.5rem 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border: 0;
+	border-radius: 0;
+	color: $white;
+	transition: all 0.3s ease-in-out;
+}
+
+.btn-download {
+	background-color: $red;
+
+	&:hover {
+		background-color: $dark-red;
+		color: $white;
+	}
+}

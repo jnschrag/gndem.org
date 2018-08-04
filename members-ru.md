@@ -1,7 +1,7 @@
 ---
 layout: members
 title: Наши участники
-lang: en
+lang: ru
 permalink: "/members/"
 ---
 

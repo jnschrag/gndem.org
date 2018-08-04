@@ -1,6 +1,14 @@
 /*============================
 =            Home            =
 ============================*/
+.home-content-container {
+	order: 2;
+
+	@include breakpoint("medium") {
+		order: 1;
+	}
+}
+
 .home {
 
 	@include breakpoint("medium") {
@@ -10,6 +18,30 @@
 	.post-list-heading {
 		@extend %subheading;
 		color: $gray;
+	}
+
+	&-mission {
+		margin: 2rem auto;
+
+		@include breakpoint("medium") {
+			margin-bottom: 4rem;
+		}
+
+		p {
+			margin: 0;
+			padding: 2rem;
+			background-color: $off-white;
+			border-left: 3px solid $dark-red;
+			@include fontSize(18px);
+		}
+	}
+
+	.read-all {
+		position: relative;
+		display: inline-block;
+		font-family: $font__merriweather;
+		text-transform: uppercase;
+		@include arrow-after($yellow);
 	}
 }
 
@@ -21,8 +53,24 @@
 }
 
 .sidebar {
+	order: 1;
+	margin-bottom: 4rem;
+
+	@include breakpoint("medium") {
+		order: 2;
+	}
+
 	.subheading {
 		margin-bottom: 0.5rem;
+
+		&::after {
+			content: "";
+			display: block;
+			width: 20%;
+			height: 3px;
+			margin-top: 0.25rem;
+			background-color: $blue;
+		}
 	}
 
 	p {
@@ -37,49 +85,12 @@
 	}
 
 	a {
-		$arrow-size: 1em;
-		$arrow-border: 0.2em;
-		$arrow-color: $yellow;
-
 		position: relative;
 		display: inline-block;
 		margin-top: 0.5rem;
 		font-family: $font__merriweather;
 
-		&:after, &:before {
-		    content: "";
-		    display: block;
-		    position: absolute;
-		    transition: all 0.5s ease-in-out;
-		}
-		&:before {
-		    top: 50%;
-		    right: -2em;
-		    width: $arrow-size;
-		    height: $arrow-size;
-		    transform-origin: 50% 50%;
-		    transform:  translate(0, -($arrow-size / 2)) rotate(45deg);
-		    box-shadow: inset -#{$arrow-border} $arrow-border 0 0 $arrow-color;
-		    border-radius: 0 $arrow-size*0.15 0 0;
-		}
-		  
-		&:after {
-		    top: 50%;
-		    right: -2em;
-		    width: $arrow-size * 1.3;
-		    height: $arrow-border;
-		    transform:  translate(0, -($arrow-border / 2));
-		    background-color: $arrow-color;
-		}
-
-		&:hover {
-		    &:before {
-		      transform:  translate(0.5em, -($arrow-size / 2)) rotate(45deg);
-		    }
-		    &:after {
-		      transform:  translate(0.5em, -($arrow-border / 2));
-		    }
-		}
+		@include arrow-after($yellow);
 	}
 }
 

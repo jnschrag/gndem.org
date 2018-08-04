@@ -1,11 +1,11 @@
 ---
-layout: sidebar
+layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="page">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
   {{ content }}
 
@@ -16,6 +16,7 @@ layout: sidebar
   {% endfor %}
   </ul>
 
+  <br />
   <h3>{{ site.data.strings.members }}</h3>
   <table id="members_table">
   	<thead>

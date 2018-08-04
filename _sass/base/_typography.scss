@@ -1,4 +1,5 @@
 body {
+	font-family: $font__open-sans;
 	@include fontSize(16px);
 	line-height: 1.5;
 	color: $dark-gray;
@@ -88,14 +89,14 @@ h6 {
 
 /*----------  Links  ----------*/
 a {
-	color: inherit;
+	color: $blue;
 	text-decoration: none;
 	@include transition(all .3s ease-in-out);
 
 	&:hover,
 	&:focus,
 	&:active {
-		color: $dark-red;
+		color: $dark-blue;
 	}
 
 }

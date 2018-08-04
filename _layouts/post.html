@@ -15,8 +15,11 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.feature_image != '' %}
+    <a href="{{ page.url | relative_url }}"><img src="{{ page.feature_image | relative_url }}" class="post-feature-img" alt="{{ page.title | escape }}" title="{{ page.title | escape }}" /></a>
+    {% endif %}
     {{ content }}
   </div>
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-url clearfix" href="{{ page.url | relative_url }}" hidden></a>
 </article>

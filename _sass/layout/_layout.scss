@@ -21,6 +21,10 @@ body {
 	}
 }
 
+.clearfix {
+	clear: both;
+}
+
 @import "header";
 @import "home";
 @import "page";

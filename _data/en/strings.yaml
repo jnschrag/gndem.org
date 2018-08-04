@@ -1,11 +1,15 @@
 ---
+menu: Menu
 menu_home: Home
 menu_about: About Us
 menu_stories: Stories
 menu_members: Members
-copyright: GNDEM 2017
+copyright: GNDEM 2018
 privacy_policy: Privacy Policy
 terms_conditions: Terms and Conditions
+
+continue_reading: Continue Reading
+read_all: Read All Stories
 
 home_desc: GNDEM, with 251 member organizations in 89 countries and territories, and regional network members in Africa, Asia, Europe and Eurasia, Latin America and the Caribbean, and the Middle East/North Africa, has  worked to facilitate and enhance the critical work of citizen election monitors throughout the world.
 home_latest_title: Latest Success Stories
@@ -21,7 +25,7 @@ supporting_organizations: Supporting Organizations
 # Members
 regional_networks: Regional Networks
 members: Members
-country: country
+country: Country
 organization_name: Name
 organization_acronym: Acronym
 website: Website
