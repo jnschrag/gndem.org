@@ -19,6 +19,9 @@
     </div>
   </div>
 </footer>
+{% include gdpr-notification-bar.html %}
+
+<script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>
 
 {% if page.layout == 'members' %}
   {% include members-scripts.html %}

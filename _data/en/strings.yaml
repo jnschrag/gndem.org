@@ -33,3 +33,9 @@ membership_block_title: GNDEM Membership
 membership_block_desc: GNDEM membership is open to any nonpartisan citizen organization actively committed to election monitoring and observation in their country.
 view_members: View Current Members
 register_members: Register Your Organization
+
+# GDPR
+gdpr_heading: Thank you for accepting our updated policies
+gdpr_desc: For more information on how NDI protects your personal information, click More Info on the right.  You can now hide this message.
+gdpr_hide: Hide
+gdpr_more_info: More Information
