@@ -199,9 +199,9 @@ I, the undersigned, hereby pledge (promise or vow) that:
  9. I will report impartially, accurately (including positive as well as negative factors)  and as timely as possible on all events that I observe in my capacity as a non-partisan election observer or monitor; and
 10. I hereby vow that I have carefully read and fully understand the Code of Conduct for Non-partisan Election Observers and Monitors; I agree to promote its goals and principles and to comply with its requirements.  I further vow to resign from my role as an election observer or monitor if I should develop any conflicts of interest that would hinder me from fulfilling impartially, accurately and in a timely manner my non-partisan election observation or monitoring activities or if I should violate the requirements of this Code of Conduct.
 
-## ANNEX
+## Annex
 
-### NON-EXCLUSIVE LIST OF INTERNATIONAL DOCUMENTS RELEVANT TO NON-PARTISAN ELECTION OBSERVATION AND MONITORING BY CITIZEN ORGANIZATIONS
+### Non-Exclusive List of International Documents Relevant to Non-Partisan Election Observation and Monitoring By Citizen Organizations
 
 **Global**
 
@@ -297,7 +297,7 @@ _Commonwealth of Independent States_
 * Conference Declaration of the European Domestic Observer Forum (23 June 2003, Zagreb, Croatia)
 * Draft Declaration of Principles for Domestic Election Observation (29 January 2009, by the Free and Fair Election Network – FAFEN, Pakistan)
 
-## ACKNOWLEDGEMENTS
+## Acknowledgements
 
 This Declaration of Global Principles for Non-partisan Election Observation and Monitoring by Citizen Organizations and Code of Conduct for Non-partisan Citizen Election Observers and Monitors is the product of a process initiated through the Global Network of Domestic Election Monitors (GNDEM) and facilitated by the National Democratic Institute (NDI) and the UN Electoral Assistance Division (UNEAD).  The process included representatives from the existing regional networks of domestic non-partisan domestic election monitoring organizations and initiatives to develop such networks where they did not yet exist formally.
 
