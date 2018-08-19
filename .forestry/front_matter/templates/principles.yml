@@ -1,0 +1,18 @@
+---
+label: Principles
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: lang
+  label: Lang
+- type: textarea
+  label: Introduction
+  name: introduction
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
