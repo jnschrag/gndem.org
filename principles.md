@@ -184,7 +184,7 @@ In a case of concern about the violation of this Code of Conduct, the endorsing 
 
 Alternative words are offered in parentheses; the most appropriate word may vary in differing national contexts.
 
-#### Election Monitor Pledge (Oath)
+**Election Monitor Pledge (Oath)**
 
 I, the undersigned, hereby pledge (promise or vow) that:
 
