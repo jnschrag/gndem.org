@@ -1,39 +1,39 @@
 ---
 layout: default
 ---
-<article class="page">
+<article class="page row declaration">
 
-	<header class="post-header">
+	<header class="post-header col-xs-12">
 		<h1 class="post-title">{{ page.title | escape }}</h1>
 	</header>
 
-	<section class="post-content">
+	<aside class="col-xs-12 col-md-4 declaration-sidebar">
+		<div class="sidebar-contents">
+			<h2 class="subheading">{{ site.data.strings.table_of_contents }}</h2>
+			<div id="table-of-contents"></div>
+			{% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" | append: ".pdf" %}
+			<a href="{{ pdf_url | relative_url }}" class="btn btn-download">{{ site.data.strings.download_declaration }}</a>
+		</div>
+	</aside>
+
+	<section class="post-content col-xs-12 col-md-8">
 		{{ content }}
-	</section>
 
-	<section class="declaration-pdf">
-		{% assign pdf_url = site.active_lang | prepend: "/assets/pdfs/DoGP_" | append: ".pdf" %}
-		<a href="{{ pdf_url | relative_url }}" class="btn btn-download">{{ site.data.strings.download_declaration }}</a>
-		<object data="{{ pdf_url | relative_url }}" type="application/pdf"
-        width="100%" height="700" typemustmatch>
-		  <p>You don't have a PDF plugin, but you can <a href="{{ pdf_url | relative_url }}">download the PDF file.</a></p>
-		</object>
-	</section>
+		<section class="declaration-signatories">
+			<h3>{{ site.data.strings.endorsing_networks }}</h3>
+			<ul>
+				{% for member in site.data.principles_networks %}
+				<li>{{ member }}</li>
+				{% endfor %}
+			</ul>
 
-	<section class="declaration-signatories">
-		<h3>{{ site.data.strings.endorsing_networks }}</h3>
-		<ul>
-			{% for member in site.data.principles_networks %}
-			<li>{{ member }}</li>
-			{% endfor %}
-		</ul>
-
-		<h3>{{ site.data.strings.supporting_organizations }}</h3>
-		<ul>
-			{% for member in site.data.principles_organizations %}
-			<li>{{ member }}</li>
-			{% endfor %}
-		</ul>
+			<h3>{{ site.data.strings.supporting_organizations }}</h3>
+			<ul>
+				{% for member in site.data.principles_organizations %}
+				<li>{{ member }}</li>
+				{% endfor %}
+			</ul>
+		</section>
 	</section>
 
 </article>
