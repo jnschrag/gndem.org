@@ -1,10 +1,11 @@
 ---
 layout: principles
-title: "Declaration des principes internationaux pour l’observation et la surveillance impartiales des elections"
+title: 'Declaration des principes internationaux pour l’observation et la surveillance
+  impartiales des elections '
 lang: fr
 permalink: "/declaration-of-global-principles/"
----
 
+---
 L’élaboration d’une déclaration de principes claire et forte et un code de bonne conduite pour l’observation impartiale des élections par les organisations citoyenne constitue une étape importante dans le développement de l’observation impartiale des élections à travers le monde. La Déclaration de principes internationaux pour l’observation et la surveillance impartiale des élections par les organisations citoyennes et son code de conduite jouent exactement ces rôles. Le GNDEM encourage tous ses membres à s’engager à y adhérer et à mettre en œuvre la Déclaration.
 
 La Déclaration élabore des critères importants pour la conscience de soi et la redevabilité parmi les organisations d’observation impartiale des élections. Elle établit une base de connaissances pour les organisations impartiales d’engager avec les agents électoraux et d’autres autorités gouvernementales. Elle permet également aux citoyens, à la presse et aux autres membres de la communauté internationale concernés d’apprécier le rôle et les engagements des organisations qui s’adhèrent à la Déclaration de principes internationaux.
