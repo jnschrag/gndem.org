@@ -1,7 +1,7 @@
 ---
 layout: principles
-title: 'Declaración de Principios Globales para la Observación y Monitoreo No Partidario
-  de Elecciones Realizado por Organizaciones Ciudadanas '
+title: Declaración de Principios Globales para la Observación y Monitoreo No Partidario
+  de Elecciones Realizado por Organizaciones Ciudadanas
 lang: es
 permalink: "/declaration-of-global-principles/"
 
