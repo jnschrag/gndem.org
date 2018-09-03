@@ -1,7 +1,7 @@
 ---
 layout: principles
-title: 'Declaration des principes internationaux pour l’observation et la surveillance
-  impartiales des elections '
+title: Declaration des principes internationaux pour l’observation et la surveillance
+  impartiales des elections
 lang: fr
 permalink: "/declaration-of-global-principles/"
 
