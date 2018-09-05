@@ -11,7 +11,7 @@ permalink: "/join/"
     Questions? Send us an email at <a href="mailto:gndem09@gmail.com">gndem09@gmail.com</a>.
 </p>
 <div class="join-form">
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSc8B6-q7Vh8O87iBcGML8ECF_f2ShwnsncUJscufJVyxY7oDA/formResponse" method="post">
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfLBun_QqmWNjkZSRPnWLvD-7Q4zye3xxWatn2S02KRVf2NqQ/formResponse" method="post">
         <label for="entry.354387486"><span>Organization Name <span class="required">*</span></span><input type="text" class="input-field" name="entry.354387486" value="" required /></label>
         <label for="entry.354601185"><span>Organization Acronym <span class="required">*</span></span><input type="text" class="input-field" name="entry.354601185" value="" required /></label>
         <label for="entry.823125843"><span>Organization's Country <span class="required">*</span></span><input type="text" class="input-field" name="entry.823125843" value="" required /></label>
