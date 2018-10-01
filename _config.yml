@@ -7,7 +7,7 @@ email: gndem09@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Global Network of Domestic Election Monitors connects over 245 regional networks and individual nonpartisan citizen observation groups to share best practices and further our common aspirations for representative, responsive, transparent, democratic governance.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.gndem.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 facebook_username: GNDEM
 twitter_username: gndemexchanges
