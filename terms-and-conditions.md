@@ -36,4 +36,4 @@ We may make changes to this Cookie Policy at any time. These changes will be ref
 
 ## Contact Us
 
-If you have any questions or concerns about cookies when using the GNDEM website, please contact us via email.
+If you have any questions or concerns about cookies when using the GNDEM website, please contact us.
