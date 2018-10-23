@@ -1,6 +1,3 @@
----
+# gndem.org
 
----
-# openelectiondata.net
-
-Code for openelectiondata.net main site.
+Code for gndem.org main site
