@@ -15,19 +15,15 @@ sections:
 - type: document
   path: _data/principles_networks.yml
   label: 'DoGP: Networks'
-  match: "**/*"
 - type: document
   path: _data/principles_organizations.yaml
   label: 'DoGP: Organizations'
-  match: "**/*"
 - type: document
   path: _data/regional_networks.yml
   label: Regional Networks
-  match: "**/*"
 - type: document
   path: _data/gndem_members.csv
   label: Members
-  match: "**/*"
 - type: heading
   label: Translations
 - type: document
