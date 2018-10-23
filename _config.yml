@@ -21,7 +21,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post" 
+      layout: "post"
+      permalink: "/stories/:slug/"
 
 # Build settings
 markdown: kramdown
