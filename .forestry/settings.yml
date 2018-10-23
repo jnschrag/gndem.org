@@ -10,17 +10,32 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: heading
-  label: Translations
-- type: document
-  path: _data/en/strings.yaml
-  label: English
-  match: "**/*"
 - type: directory
   path: _data
   label: Data
   create: none
   match: "**/*.{json,yaml,yml}"
+- type: heading
+  label: Translations
+- type: document
+  path: _data/en/strings.yaml
+  label: English
+- type: document
+  path: _data/es/strings.yaml
+  label: Spanish
+  match: "**/*"
+- type: document
+  path: _data/fr/strings.yaml
+  label: French
+  match: "**/*"
+- type: document
+  path: _data/ar/strings.yaml
+  label: Arabic
+  match: "**/*"
+- type: document
+  path: _data/ru/strings.yaml
+  label: Russian
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
