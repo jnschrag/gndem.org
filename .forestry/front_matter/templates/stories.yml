@@ -17,7 +17,6 @@ fields:
   name: tags
   label: Tags
 pages:
-- dns-test.md
 - _posts/2018-07-21-gndem-calls-on-government-of-cambodia-to-stop-pressuring-citizen-election-observers.md
 - _posts/2018-07-21-gndem-members-shared-best-practices-experiences-in-the-balkans-and-eurasia.md
 - _posts/2018-07-21-gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.md
