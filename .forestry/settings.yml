@@ -10,11 +10,24 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-- type: directory
-  path: _data
-  label: Data
-  create: none
-  match: "**/*.{json,yaml,yml}"
+- type: heading
+  label: Members & Organizations
+- type: document
+  path: _data/principles_networks.yml
+  label: 'DoGP: Networks'
+  match: "**/*"
+- type: document
+  path: _data/principles_organizations.yaml
+  label: 'DoGP: Organizations'
+  match: "**/*"
+- type: document
+  path: _data/regional_networks.yml
+  label: Regional Networks
+  match: "**/*"
+- type: document
+  path: _data/gndem_members.csv
+  label: Members
+  match: "**/*"
 - type: heading
   label: Translations
 - type: document
@@ -23,19 +36,15 @@ sections:
 - type: document
   path: _data/es/strings.yaml
   label: Spanish
-  match: "**/*"
 - type: document
   path: _data/fr/strings.yaml
   label: French
-  match: "**/*"
 - type: document
   path: _data/ar/strings.yaml
   label: Arabic
-  match: "**/*"
 - type: document
   path: _data/ru/strings.yaml
   label: Russian
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
