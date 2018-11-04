@@ -17,7 +17,7 @@ fields:
   name: tags
   label: Tags
 pages:
-- _posts/test-post.md
+- _posts/2018-11-04-test-post.md
 - _posts/2018-07-21-the-coalition-observes-kyrgyzstan-s-first-peaceful-transition-of-power.md
 - _posts/2018-07-21-gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.md
 - _posts/2018-07-21-gndem-calls-on-government-of-cambodia-to-stop-pressuring-citizen-election-observers.md
