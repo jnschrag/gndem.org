@@ -41,8 +41,8 @@ sections:
 - type: document
   path: _data/ru/strings.yaml
   label: Russian
-upload_dir: uploads
-public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: gndem
+public_path: https://res.cloudinary.com/gndem/image/upload
+front_matter_path: https://res.cloudinary.com/gndem/image/upload
+use_front_matter_path: true
 file_template: ":filename:"
