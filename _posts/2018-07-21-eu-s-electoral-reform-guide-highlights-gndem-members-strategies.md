@@ -1,8 +1,7 @@
 ---
 title: EU’s Electoral Reform Guide Highlights GNDEM Members’ Strategies
-date: 2018-07-21 17:56:03 -0400
-publish_date: 2018-04-05 00:00:00 -0400
-feature_image: '/uploads/eu-electoral-reform-1.png'
+date: 2018-04-05 00:00:00 -0400
+image: https://res.cloudinary.com/gndem/image/upload/v1541355321/gndem/eu-electoral-reform-1.png
 tags: []
 
 ---

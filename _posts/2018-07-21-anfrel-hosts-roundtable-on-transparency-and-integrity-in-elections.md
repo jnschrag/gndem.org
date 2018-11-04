@@ -1,8 +1,7 @@
 ---
 title: ANFREL Hosts Roundtable on Transparency and Integrity in Elections
-date: 2018-07-21 17:58:55 -0400
-publish_date: 2017-12-08 00:00:00 -0500
-feature_image: '/uploads/anfrel-roundtable.png'
+date: 2017-12-08 00:00:00 -0500
+image: https://res.cloudinary.com/gndem/image/upload/v1541355320/gndem/anfrel-roundtable.png
 tags:
 - ANFREL
 - Asia

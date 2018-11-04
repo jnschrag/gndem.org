@@ -2,11 +2,11 @@
 title: GNDEM Members Convene for Academy on Open Data Analysis and Disinformation
   Monitoring
 date: 2018-07-21 17:45:46 -0400
-feature_image: '/uploads/gndem-members-convene-for-academy-1.jpg'
+image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/gndem-members-convene-for-academy-1.jpg
 tags:
 - Central & Eastern Europe
 - Eurasia
-publish_date: 2018-05-14 00:00:00 -0400
+date: 2018-05-14 00:00:00 -0400
 
 ---
 From April 24-27, 2018, 15 citizen election observer groups from 11 countries, including 10 GNDEM members, convened in Belgrade, Serbia for an academy on information and electoral integrity through open election data analysis and monitoring the spread, prevalence and scope of disinformation during elections. The four-day academy included discussions on methodologies for monitoring disinformation in traditional and social media, methods for using open election data as part of election observation efforts, and various tools and skills for opening and analyzing election data to enhance fact-based findings. GNDEM members identified these issues as highly important to electoral integrity following a similar academy in 2017, and the peer-to-peer learning opportunity allowed members to share recent innovative approaches and learn from one another.

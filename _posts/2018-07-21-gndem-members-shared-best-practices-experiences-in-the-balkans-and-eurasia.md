@@ -1,8 +1,7 @@
 ---
 title: GNDEM Members Shared Best Practices, Experiences in the Balkans and Eurasia
-date: 2018-07-21 18:09:10 -0400
-publish_date: 2017-06-20 00:00:00 -0400
-feature_image: '/uploads/gndem-members-shared-best-practices-experiences-in-the-balkans-and-eurasia.jpg'
+date: 2017-06-20 00:00:00 -0400
+image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/gndem-members-shared-best-practices-experiences-in-the-balkans-and-eurasia.jpg
 tags:
 - CeSID
 - GONG

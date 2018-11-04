@@ -1,8 +1,7 @@
 ---
 title: GNDEM Coordinating Committee Convenes for Fifth DoGP Implementation Meeting
-date: 2018-07-21 18:04:44 -0400
-publish_date: 2017-08-04 18:00:00 -0400
-feature_image: '/uploads/gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.jpg'
+date: 2017-08-04 18:00:00 -0400
+image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.jpg
 tags:
 - Acuerdo de Lima
 - ANDE

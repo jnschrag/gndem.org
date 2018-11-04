@@ -1,8 +1,7 @@
 ---
 title: Citizen Observers Discuss Importance Of Monitoring Disinformation In Elections
-date: 2018-07-21 17:54:03 -0400
-publish_date: 2018-04-05 00:00:00 -0400
-feature_image: '/uploads/monitoring-disinformation-1.jpg'
+date: 2018-04-05 00:00:00 -0400
+image: https://res.cloudinary.com/gndem/image/upload/v1541355317/gndem/monitoring-disinformation-1.jpg
 tags: []
 
 ---

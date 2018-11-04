@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.publish_date | date: site.date_format }}
+        {{ page.date | date: site.date_format }}
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
@@ -15,8 +15,8 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {% if page.feature_image != '' %}
-    <a href="{{ page.url | relative_url }}"><img src="{{ page.feature_image | relative_url }}" class="post-feature-img" alt="{{ page.title | escape }}" title="{{ page.title | escape }}" /></a>
+    {% if page.image != '' %}
+    <a href="{{ page.url | relative_url }}"><img src="{{ page.image | relative_url }}" class="post-feature-img" alt="{{ page.title | escape }}" title="{{ page.title | escape }}" /></a>
     {% endif %}
     {{ content }}
   </div>
