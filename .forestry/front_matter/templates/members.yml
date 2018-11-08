@@ -33,3 +33,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _members/test-organization.md
