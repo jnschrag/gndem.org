@@ -14,12 +14,26 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <section class="post-content e-content" itemprop="articleBody">
     {% if page.image != '' %}
     <a href="{{ page.url | relative_url }}"><img src="{{ page.image | relative_url }}" class="post-feature-img" alt="{{ page.title | escape }}" title="{{ page.title | escape }}" /></a>
     {% endif %}
     {{ content }}
-  </div>
+  </section>
+  
+  <footer class="post-footer">
+    {%- if site.show_tags and page.tags.size > 0 -%}
+    <div class="tag-list">
+      <span class="tag-list__title">{{ site.data.strings.tags }}</span>
+      <ul>
+        {% for tag in page.tags %}
+        {%- assign tag_url = tag | slugify %}
+        <li class="tag-list__tag"><a href="{{ '/tag/' | append: tag_url | relative_url }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {%- endif -%}
+  </footer>
 
   <a class="u-url clearfix" href="{{ page.url | relative_url }}" hidden></a>
 </article>

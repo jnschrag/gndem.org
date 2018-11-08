@@ -15,6 +15,7 @@ cloudinary_url: https://res.cloudinary.com/gndem/image/upload/
 
 show_excerpts: true
 date_format: "%B %-d, %Y"
+show_tags: false
 
 collections:
   posts:
@@ -44,6 +45,15 @@ languages: ["en", "es", "fr", "ar", "ru"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
+
+jekyll-archives:
+  enabled: ['tags']
+  layout: 'archives'
+  permalinks:
+    tag: '/tag/:name/'
+
+plugins:
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
