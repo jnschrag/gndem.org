@@ -13,7 +13,7 @@ sections:
   templates:
   - stories
 - type: document
-  path: _/data/tags.yml
+  path: _data/tags.yml
   label: Tags
 - type: heading
   label: Members & Organizations
