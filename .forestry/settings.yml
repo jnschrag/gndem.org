@@ -23,9 +23,11 @@ sections:
 - type: document
   path: _data/regional_networks.yml
   label: Regional Networks
-- type: document
-  path: _data/gndem_members.csv
+- type: directory
+  path: _members
   label: Members
+  create: documents
+  match: "**/*"
 - type: heading
   label: Translations
 - type: document
