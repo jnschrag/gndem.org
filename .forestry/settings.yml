@@ -8,8 +8,10 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: Stories
   create: all
+  templates:
+  - stories
 - type: heading
   label: Members & Organizations
 - type: document
