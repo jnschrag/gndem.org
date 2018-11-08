@@ -12,6 +12,10 @@ sections:
   create: all
   templates:
   - stories
+- type: document
+  path: _/data/tags.yml
+  label: Tags
+  match: "**/*"
 - type: heading
   label: Members & Organizations
 - type: document
