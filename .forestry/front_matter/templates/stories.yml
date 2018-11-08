@@ -16,6 +16,9 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: textarea
+  name: excerpt
+  label: Excerpt
 pages:
 - _posts/test-post.md
 - _posts/2018-07-21-the-coalition-observes-kyrgyzstan-s-first-peaceful-transition-of-power.md
