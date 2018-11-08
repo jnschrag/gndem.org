@@ -28,6 +28,8 @@ sections:
   label: Members
   create: documents
   match: "**/*"
+  templates:
+  - members
 - type: heading
   label: Translations
 - type: document
