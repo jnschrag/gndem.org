@@ -13,12 +13,16 @@ fields:
 - type: file
   name: image
   label: Feature Image
-- type: tag_list
-  name: tags
-  label: Tags
 - type: textarea
   name: excerpt
   label: Excerpt
+- type: list
+  name: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: pages
 pages:
 - _posts/2018-07-21-the-coalition-observes-kyrgyzstan-s-first-peaceful-transition-of-power.md
 - _posts/2018-07-21-gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.md
