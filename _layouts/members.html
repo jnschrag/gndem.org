@@ -21,19 +21,19 @@ layout: default
   <table id="members_table">
   	<thead>
   		<tr>
-  			<th>{{ site.data.strings.country }}</th>
-  			<th>{{ site.data.strings.organization_name }}</th>
-  			<th>{{ site.data.strings.organization_acronym }}</th>
-  			<th>{{ site.data.strings.website }}</th>
+  			<th style="width: 5%;">{{ site.data.strings.country }}</th>
+  			<th style="width: 60%;">{{ site.data.strings.organization_name }}</th>
+  			<th style="width: 15%;">{{ site.data.strings.organization_acronym }}</th>
+  			<th style="width: 20%;">{{ site.data.strings.website }}</th>
   		</tr>
   	</thead>
   	<tbody>
-  		{% for member in site.members %}
+			{% for member in site.members %}
   		<tr>
   			<td>{{ member.country }}</td>
   			<td>{{ member.name }}</td>
   			<td>{{ member.acronym }}</td>
-  			<td>{{ member.website }}</td>
+  			<td>{%- if member.website.size > 0 -%}<a href="{{ member.website }}" target="_blank" rel="nofollow">{{ site.data.strings.visit_url }}</a>{%- endif -%}</td>
   		</tr>
   		{% endfor %}
   	</tbody>
