@@ -4,6 +4,11 @@ date: ''
 image: https://res.cloudinary.com/gndem/image/upload/v1542403118/gndem/GNDEM%20in%20Colombo.jpg
 excerpt: ''
 tags:
+- ENEMO
+- Acuerdo de Lima
+- EPDE
+- E-HORN
+- ANDE
 - ANFREL
 - Global
 
