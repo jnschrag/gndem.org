@@ -4,6 +4,10 @@ date: ''
 image: https://res.cloudinary.com/gndem/image/upload/v1542403118/gndem/GNDEM%20in%20Colombo.jpg
 excerpt: ''
 tags:
+- Misión de Observación Electoral
+- CeMI
+- LADE
+- KHRC
 - ENEMO
 - Acuerdo de Lima
 - EPDE
