@@ -2,7 +2,12 @@
 title: GNDEM Participates in Two Events in Colombo, Sri Lanka
 date: ''
 image: https://res.cloudinary.com/gndem/image/upload/v1542403118/gndem/GNDEM%20in%20Colombo.jpg
-excerpt: ''
+excerpt: From August 25 to 26, 2018, the GNDEM Coordinating Committee, representing
+  the nine regional networks, met in Colombo, Sri Lanka for the Sixth Implementation
+  Meeting of the Declaration of Global Principles for Nonpartisan Election Observation.
+  The Coordinating Committee discussed recent challenges and opportunities in citizen
+  election observation, and further clarified and refined network priorities and standard
+  operating procedures, including the approval of the first set of GNDEM Protocols.
 tags:
 - Global
 - Acuerdo de Lima
