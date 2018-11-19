@@ -4,17 +4,17 @@ date: ''
 image: https://res.cloudinary.com/gndem/image/upload/v1542403118/gndem/GNDEM%20in%20Colombo.jpg
 excerpt: ''
 tags:
+- Global
+- Acuerdo de Lima
+- EPDE
+- ANDE
+- ANFREL
+- E-HORN
 - Misión de Observación Electoral
+- ENEMO
 - CeMI
 - LADE
 - KHRC
-- ENEMO
-- Acuerdo de Lima
-- EPDE
-- E-HORN
-- ANDE
-- ANFREL
-- Global
 
 ---
 ### Coordinating Committee Convenes in Colombo
