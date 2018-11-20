@@ -1,6 +1,6 @@
 ---
 title: GNDEM Participates in Two Events in Colombo, Sri Lanka
-date: 2018-11-19 05:00:00 +0000
+date: 2018-11-19 07:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1542647904/gndem/GNDEM%20in%20Colombo%202.jpg
 excerpt: From August 25 to 26, 2018, the GNDEM Coordinating Committee, representing
   the nine regional networks, met in Colombo, Sri Lanka for the Sixth Implementation
