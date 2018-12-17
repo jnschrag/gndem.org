@@ -6,6 +6,6 @@ acronym:
 is_member: true
 no_gndem_member_countries: 
 regional_network: 
-website: https://www.wahlbeobachtung.org/en/
+website: www.wahlbeobachtung.org/en/
 
 ---
