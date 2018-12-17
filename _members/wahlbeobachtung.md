@@ -3,8 +3,9 @@ region: Europe
 country: Austria
 name: wahlbeobachtung.org (Election-Watch.EU)
 acronym: 
-is_member: yes
+is_member: true
 no_gndem_member_countries: 
 regional_network: 
-website: wahlbeobachtung.org
+website: https://www.wahlbeobachtung.org/en/
+
 ---
