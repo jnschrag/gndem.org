@@ -10,7 +10,7 @@ tags:
 - Global
 
 ---
-(subheading)
+### Coordinating Committee Adopts Constitutional Protocols
 
 During the [Sixth Implementation Meeting](https://gndem.org/stories/gndem-participates-in-two-events-in-colombo-sri-lanka/) of the Declaration of Global Principles, held in 2018 in Colombo, Sri Lanka, the Coordinating Committee adopted the first set of GNDEM Constitutional Protocols, implementing new membership categories and criteria.
 
@@ -18,7 +18,7 @@ According to the new protocols, current and prospective GNDEM members must condu
 
 New membership categories will also be established based on the criteria above: “full members” includes groups that have been accredited for three consecutive years; “associate members” includes groups that haven’t fulfilled the requirement of accreditation for three consecutive years; and “consultative members” are those who don’t meet the membership criteria but wish to contribute to GNDEM and are endorsers of the DoGP.
 
-(subheading)
+Accreditation Committee Releases Survey
 
 Following GNDEM’s adoption of the Protocols, [MOE Colombia](https://moe.org.co/) - as the Chair of the Accreditation Committee - set out to build a comprehensive record of member organizations with the ultimate objective to establish a standardized accreditation process. MOE is currently surveying all current members, allowing the Accreditation Committee and GNDEM to know more about the organizations that are current members, understand their needs and capabilities, build a baseline for further comparison, and establish parameters from which to assess future applications from organizations seeking to be a part of the network.
 
