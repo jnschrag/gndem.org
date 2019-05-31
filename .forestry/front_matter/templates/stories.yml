@@ -1,7 +1,6 @@
 ---
 label: Stories
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -33,15 +32,16 @@ fields:
       file: _data/tags.yml
       path: Tags
 pages:
+- _posts/gndem-members-participate-in-open-election-data-academy.md
 - _posts/2019-03-07-gndem-implements-new-membership-requirements.md
-- _posts/2018-12-25-isfed-monitors-social-media-around-2018-presidential-election.md
-- _posts/2018-07-21-the-coalition-observes-kyrgyzstan-s-first-peaceful-transition-of-power.md
-- _posts/2018-07-21-gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.md
-- _posts/2018-07-21-gndem-calls-on-government-of-cambodia-to-stop-pressuring-citizen-election-observers.md
-- _posts/2018-07-21-amid-political-tensions-crta-s-pvt-confirms-preliminary-results.md
-- _posts/2018-07-21-eu-s-electoral-reform-guide-highlights-gndem-members-strategies.md
-- _posts/2018-07-21-gndem-members-shared-best-practices-experiences-in-the-balkans-and-eurasia.md
-- _posts/2018-07-21-anfrel-hosts-roundtable-on-transparency-and-integrity-in-elections.md
-- _posts/2018-07-21-gndem-members-convene-for-academy-on-open-data-analysis-and-disinformation-monitoring.md
-- _posts/2018-07-21-citizen-observers-discuss-importance-of-monitoring-disinformation-in-elections.md
 - _posts/2018-07-21-gndem-hosts-two-global-events-in-tbilisi-georgia.md
+- _posts/2018-07-21-citizen-observers-discuss-importance-of-monitoring-disinformation-in-elections.md
+- _posts/2018-07-21-gndem-members-convene-for-academy-on-open-data-analysis-and-disinformation-monitoring.md
+- _posts/2018-07-21-anfrel-hosts-roundtable-on-transparency-and-integrity-in-elections.md
+- _posts/2018-07-21-gndem-members-shared-best-practices-experiences-in-the-balkans-and-eurasia.md
+- _posts/2018-07-21-the-coalition-observes-kyrgyzstan-s-first-peaceful-transition-of-power.md
+- _posts/2018-07-21-gndem-calls-on-government-of-cambodia-to-stop-pressuring-citizen-election-observers.md
+- _posts/2018-07-21-eu-s-electoral-reform-guide-highlights-gndem-members-strategies.md
+- _posts/2018-07-21-amid-political-tensions-crta-s-pvt-confirms-preliminary-results.md
+- _posts/2018-07-21-gndem-coordinating-committee-convenes-for-fifth-dogp-implementation-meeting.md
+- _posts/2018-12-25-isfed-monitors-social-media-around-2018-presidential-election.md
