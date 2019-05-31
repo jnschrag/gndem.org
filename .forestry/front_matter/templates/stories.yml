@@ -32,7 +32,7 @@ fields:
       file: _data/tags.yml
       path: Tags
 pages:
-- _posts/gndem-members-participate-in-open-election-data-academy.md
+- _posts/2019-05-31-gndem-members-participate-in-open-election-data-academy.md
 - _posts/2019-03-07-gndem-implements-new-membership-requirements.md
 - _posts/2018-07-21-gndem-hosts-two-global-events-in-tbilisi-georgia.md
 - _posts/2018-07-21-citizen-observers-discuss-importance-of-monitoring-disinformation-in-elections.md
