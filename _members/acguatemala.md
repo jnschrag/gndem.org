@@ -1,10 +1,9 @@
 ---
 is_member: true
-name: Acción Ciudadana
+name: Acción Ciudadana / Citizen Action
 country: Guatemala
 region: LAC
 acronym: AC
 website: http://accionciudadana.org.gt/
-published: false
 
 ---
