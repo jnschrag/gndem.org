@@ -1,7 +1,7 @@
 ---
 title: GNDEM Members Convene in Belgrade to Discuss Disinformation in Elections
 date: 2019-10-01 04:00:00 +0000
-image: ''
+image: https://res.cloudinary.com/gndem/image/upload/v1569871936/gndem/IMG-1570_mmmdam.jpg
 excerpt: Representatives from several GNDEM member organizations attended an Academy
   on the impact of social media and elections in Belgrade, Serbia from 2-5 September
   2019. This intensive academy, hosted by the National Democratic Institute (NDI),
