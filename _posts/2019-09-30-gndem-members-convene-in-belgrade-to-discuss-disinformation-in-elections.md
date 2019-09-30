@@ -1,13 +1,14 @@
 ---
 title: GNDEM Members Convene in Belgrade to Discuss Disinformation in Elections
-date: 2019-09-30 04:00:00 +0000
+date: 2019-09-30 21:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1569871936/gndem/IMG-1570_mmmdam.jpg
 excerpt: Representatives from several GNDEM member organizations attended an Academy
   on the impact of social media and elections in Belgrade, Serbia from 2-5 September
   2019. This intensive academy, hosted by the National Democratic Institute (NDI),
   addressed the tools and strategies election observers can utilize for detecting,
   exposing, and countering malign disinformation in election environments.
-tags: []
+tags:
+- Global
 
 ---
 In recent years digital disinformation has become a significant threat to the integrity of electoral processes and election environments. The spreading of false information inhibits voters from receiving impartial information, damages political reputations, discourages participation in elections, and encourages harassment or violence. By better understanding the tools available to them, election observers can more effectively expose and counter the election-related disinformation being spread.
