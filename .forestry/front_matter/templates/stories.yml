@@ -32,6 +32,7 @@ fields:
       file: _data/tags.yml
       path: Tags
 pages:
+- _posts/statement-on-the-fatal-shooting-of-mozambique-local-election-observation-mission-head.md
 - _posts/2019-09-30-gndem-members-convene-in-belgrade-to-discuss-disinformation-in-elections.md
 - _posts/2019-05-31-gndem-members-participate-in-open-election-data-academy.md
 - _posts/2018-07-21-gndem-calls-on-government-of-cambodia-to-stop-pressuring-citizen-election-observers.md
