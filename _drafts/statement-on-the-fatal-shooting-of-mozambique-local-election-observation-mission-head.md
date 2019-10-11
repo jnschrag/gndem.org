@@ -3,7 +3,9 @@ title: Statement on the Fatal Shooting of Mozambique Local Election Observation 
   Head
 date: 2019-10-11 19:10:00 +0000
 image: ''
-excerpt: ''
+excerpt: Stamement by the African Elections Observers Network (AfEONet), compromised
+  of citizen observer groups in E-HORN, WAEON, and ESN-SA, on the fatal shooting of
+  local election observation mission head in Mozambique
 tags:
 - E-HORN
 - WAEON
@@ -19,4 +21,4 @@ AfEONet strongly condemns this act as election observers play a vital role in el
 
 We stand in solidarity with the Civil Society Learning Center (CESC) and the NGO League in Mozambique (JOINT) in this very difficult time. Further, we call upon the government of Mozambique to ensure that the electoral environment is peaceful and that election observers are safe to carry out their mandate. We implore the State to investigate and ensure and the perpetrators are brought to book and justice served.
 
-Read the full statement here.
+Read the full statement [here](https://drive.google.com/file/d/1efJimdF0H68_c4JP3Nxi2BR4fzNEnTu1/view?usp=sharing "Statement on the Fatal Shooting of Mozambique Local Election Observation Mission Head").
