@@ -33,5 +33,5 @@ fields:
   hidden: false
   default: true
 pages:
-- _members/test-organization.md
 - _members/acguatemala.md
+- _members/test-organization.md
