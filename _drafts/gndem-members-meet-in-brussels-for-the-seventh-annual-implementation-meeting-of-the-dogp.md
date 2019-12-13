@@ -3,7 +3,9 @@ title: GNDEM Members Meet in Brussels for the Seventh Annual Implementation Meet
   of the DoGP
 date: 2019-12-13 05:00:00 +0000
 image: ''
-excerpt: ''
+excerpt: Representatives from GNDEM members around the world convened in Brussels
+  on November 5-6, 2019 for the Seventh Implementation Meeting of the Declaration
+  of Global Principles (DoGP).
 tags:
 - SADC ESN
 - WAEON
