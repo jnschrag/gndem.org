@@ -1,7 +1,7 @@
 ---
 region: MENA
 country: Tunisia
-name: The Mourakiboun Network Association
+name: L’Association Réseau Mourakiboun / The Mourakiboun Network Association
 acronym: Mourakiboun
 is_member: true
 no_gndem_member_countries: 
