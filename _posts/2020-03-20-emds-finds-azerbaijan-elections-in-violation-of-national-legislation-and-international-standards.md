@@ -8,8 +8,7 @@ excerpt: On February 9th, Azerbaijan held snap parliamentary elections following
   Party won a majority of seats in a vote that GNDEM member Election Monitoring and
   Democracy Studies Center (EMDS) concluded violated Azerbaijani law as well as international
   standards for free and fair elections.
-tags:
-- Eurasia
+tags: []
 
 ---
 On February 9th, Azerbaijan held snap parliamentary elections with only two months’ notice - and nine months earlier than planned following a 99-1 vote to dissolve parliament in December 2019. The vote came after Prime Minister Novruz Mammadov unexpectedly resigned in October and was replaced by Ali Asadov, an ally of longtime President Ilham Aliyev.
