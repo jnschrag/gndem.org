@@ -9,8 +9,6 @@ excerpt: On February 9th, Azerbaijan held snap parliamentary elections following
   Democracy Studies Center (EMDS) concluded violated Azerbaijani law as well as international
   standards for free and fair elections.
 tags:
-- Azerbaijan
-- Parliament
 - Eurasia
 
 ---
