@@ -2,7 +2,7 @@
 title: EMDS Finds Azerbaijan Elections in Violation of National Legislation and International
   Standards
 date: 2020-03-20 21:00:00 +0000
-image: https://res.cloudinary.com/gndem/image/upload/v1584979222/gndem/EMDS_discrepancies_in_voter_turnout_p8wf53.jpg
+image: https://res.cloudinary.com/gndem/image/upload/v1584979360/gndem/EMDS_discrepancies_in_voter_turnout_2_isv50m.jpg
 excerpt: On February 9th, Azerbaijan held snap parliamentary elections following a
   vote to dissolve parliament in December 2019. President Ilham Aliyev’s New Azerbaijan
   Party won a majority of seats in a vote that GNDEM member Election Monitoring and
