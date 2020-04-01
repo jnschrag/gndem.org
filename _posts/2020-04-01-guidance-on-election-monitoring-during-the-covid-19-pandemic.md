@@ -1,6 +1,6 @@
 ---
 title: Guidance on Election Monitoring During the COVID-19 Pandemic
-date: 2020-04-01 19:00:00 +0000
+date: 2020-04-01 21:00:00 +0000
 image: https://res.cloudinary.com/gndem/image/upload/v1585761360/gndem/COCEM_HQ_2_1_ijn3pd.jpg
 excerpt: The COVID-19 pandemic poses severe technical, political, and social threats
   to elections. In light of this situation, GNDEM has developed guidance on activities
