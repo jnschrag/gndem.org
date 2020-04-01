@@ -7,7 +7,12 @@ excerpt: The COVID-19 pandemic poses severe technical, political, and social thr
   members could consider for elections that are expected to take place during the
   public health crisis as well as transparency and accountability efforts that could
   occur in the time elections are postponed.
-tags: []
+tags:
+- Coronavirus
+- COVID-19
+- COCEM
+- Promo-Lex
+- Global
 
 ---
 The COVID-19 pandemic poses severe technical, political, and social threats to elections. In many countries, the effects of the virus will strain citizen relationships with government and elected officials, intensify political tensions and the potential for violence, disenfranchise voters, and increase conditions for democratic backsliding. Each of these challenges may subvert electoral integrity, with specific impacts on women, senior citizens, and other marginalized groups. These factors elevate the role of electoral oversight techniques and their importance for building inclusion, transparency, and accountability needed to move through the effects of the pandemic.
