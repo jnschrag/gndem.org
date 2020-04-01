@@ -32,3 +32,5 @@ GNDEM has developed guidance on activities members could consider for elections 
 * **Bolster media and social media monitoring concerning mis- and disinformation around the virus and policies implemented,** including decisions to hold elections, in response which may exacerbate social cleavages, polarization, gender-based and other bigotry that malignly affect elections.
 * **Mitigate against hate speech and election violence by identifying and reporting on early warning signs and incidents of violence** that may occur in light of the pandemic and disenfranchise potential voters (e.g., women, ethnic, racial, and LGBTI populations and citizens who recently returned home from travel).
 * **Enhance capacities to identify and share information in a timely manner across regions and globally about emerging challenges to and effective practices for safeguarding electoral integrity in light of the pandemic.** To this end, we welcome feedback from all GNDEM members based on their experiences during this time.
+
+**Elections Postponed due to the COVID-19 Outbreak:**
