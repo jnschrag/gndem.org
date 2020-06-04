@@ -1,7 +1,7 @@
 ---
 region: Eurasia
 country: Russia
-name: Golos Movement in Defense of Electoral Rights
+name: All-Russian Civil Movement for the Defence of Voters' Rights "Golos"
 acronym: Golos
 is_member: true
 no_gndem_member_countries: 
