@@ -34,4 +34,5 @@ fields:
   default: true
 pages:
 - _members/acguatemala.md
+- _members/golos1.md
 - _members/test-organization.md
