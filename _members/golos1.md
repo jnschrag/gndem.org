@@ -5,5 +5,6 @@ country: Russia
 region: Eurasia
 acronym: Golos
 website: https://www.golosinfo.org/
+published: false
 
 ---
