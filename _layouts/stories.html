@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <section class="post-list">
-      {% assign posts = site.posts | sort: 'publish_date' | reverse %}
+      {% assign posts = site.posts | sort: 'date' | reverse %}
       {%- for post in posts -%}
         {%- include post.html -%}
       {%- endfor -%}

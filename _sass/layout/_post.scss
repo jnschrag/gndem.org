@@ -81,5 +81,29 @@
 		text-transform: uppercase;
 		@include arrow-after($yellow, 0.8em, 0.1em, -1.5em);
 	}
+
+	&-footer {
+		.tag-list {
+			margin-top: 2rem;
+			padding-top: 2rem;
+			border-top: 1px solid $light-gray;
+		}
+
+		.tag-list__title {
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+
+		.tag-list ul {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			display: inline-flex;
+		}
+
+		.tag-list__tag:not(:first-of-type)::before {
+			content: ', ';
+		}
+	}
 }
 

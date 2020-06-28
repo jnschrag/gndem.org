@@ -1,8 +1,7 @@
 ---
 title: GNDEM Calls on Government of Cambodia to Stop Pressuring Citizen Election Observers
-date: 2018-07-21 18:07:23 -0400
-publish_date: 2017-06-29 00:00:00 -0400
-feature_image: ''
+date: 2017-06-29 00:00:00 -0400
+image: ''
 tags:
 - Asia
 - COMFREL

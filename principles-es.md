@@ -1,10 +1,11 @@
 ---
 layout: principles
-title: "Declaración de Principios Globales para la Observación y Monitoreo No Partidario de Elecciones Realizado por Organizaciones Ciudadanas"
+title: Declaración de Principios Globales para la Observación y Monitoreo No Partidario
+  de Elecciones Realizado por Organizaciones Ciudadanas
 lang: es
 permalink: "/declaration-of-global-principles/"
----
 
+---
 La elaboración de una declaración clara y contundente de principios y un código de conducta para el monitoreo no partidario de elecciones realizado por organizaciones ciudadanas representa un hito importante en el desarrollo del monitoreo electoral no partidario en el ámbito mundial. Esta elaboración se logra a través de la Declaración de Principios Globales para la Observación y Monitoreo No Partidario Realizado por Organizaciones Ciudadanas y el código de conducta que la acompaña. La GNDEM promueve que todos sus miembros suscriban e implementen los principios de la Declaración.
 
 La Declaración enumera una importante serie de estándares para el autoconocimiento y la rendición de cuentas de las organizaciones no partidarias de monitoreo electoral. Proporciona una base de entendimiento en el que las organizaciones partidistas pueden interactuar con los funcionarios electorales y otras autoridades gubernamentales. Además, ayuda a los ciudadanos, los medios de comunicación y miembros interesados de la comunidad internacional a darse cuenta del papel y compromiso de las organizaciones que han suscrito la Declaración de Principios Globales.
